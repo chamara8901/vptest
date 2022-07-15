@@ -26,7 +26,7 @@
     "lib/"
   ],
   "scripts": {
-    "build": "vuepress build watanabe --dest docs",
+    "build": "vuepress build src --dest docs",
     "dev": "vuepress dev docs --no-cache --temp .temp",
     "lint": "eslint --ext .js,.vue lib docs",
     "semantic-release": "semantic-release",
