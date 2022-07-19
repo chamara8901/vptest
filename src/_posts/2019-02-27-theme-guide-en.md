@@ -522,7 +522,7 @@ If you want to pin your post to the top of the posts list, set `top: true` in th
 ```md {2}
 ---
 top: true
-category: hello-Grrow
+category: hello
 tags:
   - world
 date: 2019-01-21
@@ -657,7 +657,7 @@ tags:
   - en
 
 # Set the created date of current post
-date: 2022-07-19
+date: 2019-01-21
 
 # Show the meta info of the post or not , i.e. Created, Updated, Previous Post, Next Post, etc.
 ## Default: `true`
