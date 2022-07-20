@@ -13,8 +13,9 @@ Demo of how to disable comments.
 
 To disable comments for some post, just set `vssue: false` in the frontmatter.
 
-Here is the frontmatter of current demo:
-Here is the frontmatter of current demo:
+Here is the frontmatter of current demo: grrow test 1
+Here is the frontmatter of current demo: grrow test 2
+Here is the frontmatter of current demo: grrow test 3
 
 ```yaml {7}
 ---
