@@ -1,4 +1,4 @@
-# Grrow Blog
+# VuePress Blog Theme - Meteorlxy
 
 [![](https://img.shields.io/circleci/project/github/meteorlxy/vuepress-theme-meteorlxy/master.svg?style=flat)](https://circleci.com/gh/meteorlxy/vuepress-theme-meteorlxy)
 [![](https://img.shields.io/npm/v/vuepress-theme-meteorlxy.svg?style=flat)](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
