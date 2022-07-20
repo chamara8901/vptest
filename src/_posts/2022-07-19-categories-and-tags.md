@@ -20,7 +20,7 @@ Set `category` and `tags` in the frontmatter of the post:
 category: demo
 tags:
   - en
-date: 2022-07-19
+date: 2022-07-20
 title: Demo of Categories and Tags
 vssue-id: 10
 ---
