@@ -2,7 +2,7 @@
 category: demo
 tags:
   - en
-date: 2019-01-20
+date: 2022-07-20
 title: Disable Comments
 vssue: false
 ---
@@ -14,13 +14,14 @@ Demo of how to disable comments.
 To disable comments for some post, just set `vssue: false` in the frontmatter.
 
 Here is the frontmatter of current demo:
+Here is the frontmatter of current demo:
 
 ```yaml {7}
 ---
 category: demo
 tags:
   - en
-date: 2019-01-20
+date: 2022-07-20
 title: Disable Comments
 vssue: false
 ---
